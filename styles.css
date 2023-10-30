@@ -1,0 +1,71 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #e7e5e5;
+}
+
+header {
+    background-color: #333;
+    color: #000000;
+    text-align: center;
+    padding: 20px;
+}
+
+nav {
+    margin-top: 20px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+li {
+    margin: 0 15px;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+h1, h2, h3 {
+    color: #000000;
+}
+
+section {
+    padding: 20px;
+}
+
+.project {
+    margin-bottom: 20px;
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.perosnalproject {
+    margin-bottom: 20px;
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 1);
+}
+
+
+nav a {
+    
+    text-decoration: none;
+}
+  
+nav a:hover {
+    text-decoration: border;
+    opacity: 0.5;
+}
