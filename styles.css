@@ -98,7 +98,7 @@ nav a:hover {
 
 @keyframes animate {
     100%   {left:0px; top:0px;}
-    0%  {left:0px; top:200px;}
+    0%  {left:500px; top:0px;}
 }
 
 
